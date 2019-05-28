@@ -1,0 +1,12 @@
+body{
+  padding-top: 5rem;
+  background-image: url("../images/20190525_124922.jpg");
+  background-size: cover;
+}
+
+body#contact{
+  padding-top: 5rem;
+  background-image: url("../images/contact.jpg");
+  background-size: cover;
+  
+}
