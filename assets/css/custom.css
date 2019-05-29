@@ -23,6 +23,22 @@ body#port{
 }
 
 .bg-content{
-  background-color: azure;
-  opacity: 0.3;
+  background-color: gainsboro;
+  /* opacity: 0.3; */
+}
+
+#abtContent{
+  background-color: gainsboro;
+}
+
+h3{
+  font-family: 'Bungee', cursive;
+}
+
+h3#prt{
+  font-family: 'Prosto One', cursive;
+}
+
+h3#cnt{
+  font-family: 'Zilla Slab Highlight', cursive;
 }
