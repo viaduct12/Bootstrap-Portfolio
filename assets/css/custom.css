@@ -42,3 +42,7 @@ h3#prt{
 h3#cnt{
   font-family: 'Zilla Slab Highlight', cursive;
 }
+
+.card-body{
+  padding: 0%;
+}
