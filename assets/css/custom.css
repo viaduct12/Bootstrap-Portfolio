@@ -1,0 +1,44 @@
+body#abt{
+  padding-top: 5rem;
+  background-image: url("../images/abtMe.jpg");
+  background-size: cover;
+}
+
+body#contact{
+  padding-top: 5rem;
+  background-image: url("../images/contact.jpg");
+  background-size: cover;
+  
+}
+
+body#port{
+  padding-top: 5rem;
+  background-image: url("../images/port.jpg");
+  background-size: cover;
+  
+}
+
+.info{
+  font-family: 'Special Elite', cursive;
+}
+
+.bg-content{
+  background-color: gainsboro;
+  /* opacity: 0.3; */
+}
+
+#abtContent{
+  background-color: gainsboro;
+}
+
+h3{
+  font-family: 'Bungee', cursive;
+}
+
+h3#prt{
+  font-family: 'Prosto One', cursive;
+}
+
+h3#cnt{
+  font-family: 'Zilla Slab Highlight', cursive;
+}
